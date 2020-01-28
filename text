@@ -1,0 +1,1 @@
+openssl x509 -in input.cer -inform CER -out output.pem -outform PEM
